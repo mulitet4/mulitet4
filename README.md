@@ -1,6 +1,23 @@
-## ✨ Henlo! I am Mulitate4 and I like to code/play games/learn! ✨
-- 🤔 I’m currently working on **an RPG game and a Voice Assistant in Python**
-- 🤯 I’m currently learning **JavaScript and CSharp**
-- 👯 I’m looking to collaborate on **Python open-source projects!**
-- ⚡ Fun fact: **Every birthday, we are one step closer to our death!**
-- 📫 How to reach me: discord - Mulitate4#9118
+## Henlo! I am Mulitate4 
+### 🤔 I’m currently working on
+#### Python Projects:
+-**an RPG game**
+-**a Voice Assistant**
+
+#### Js Projects:
+-**RPG game in a browser**
+
+### 🤯 I’m currently learning 
+-**JavaScript**
+-**CSharp**
+
+### 👯 I'd love to collab on:
+-**Python open-source projects!**
+
+### ⚡ Other Things I do:
+-**blogging about gaming [here](https://supergamingreport.blogspot.com)
+-**Animation YT channel (INACTIVE RIGHT NOW!) [here]()**
+-**Learn. A lot!**
+
+### 📫 How to reach me: 
+-Discord - **Mulitate4#9118**
