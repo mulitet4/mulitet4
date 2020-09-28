@@ -15,7 +15,7 @@
 - **Python open-source projects!**
 
 ### ⚡ Other Things I do:
-- **blogging about gaming [here](https://supergamingreport.blogspot.com)
+- **blogging about gaming [here](https://supergamingreport.blogspot.com)**
 - **Animation YT channel (INACTIVE RIGHT NOW!) [here]()**
 - **Learn. A lot!**
 
