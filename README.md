@@ -1,11 +1,11 @@
 ## Henlo! I am Mulitate4 
 ### 🤔 I’m currently working on
-#### Python Projects:
-- **an RPG game**
-- **a Voice Assistant**
+- #### Python Projects:
+  - **an RPG game**
+  - **a Voice Assistant**
 
-#### Js Projects:
-- **RPG game in a browser**
+- #### Js Projects:
+  - **RPG game in a browser**
 
 ### 🤯 I’m currently learning 
 - **JavaScript**
