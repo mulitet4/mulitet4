@@ -1,4 +1,4 @@
-## Henlo! I am Mulitate4 
+## Henlo! I'm Mulitate4 
 ### 🤔 I’m currently working on
 - #### Python Projects:
   - **an RPG game**
