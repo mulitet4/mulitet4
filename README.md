@@ -1,4 +1,4 @@
-### Hi there 👋
+# Henlo! I am Mulitate4 and I like to code/play games/learn!
 
 <!--
 **mulitate4/mulitate4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
