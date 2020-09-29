@@ -11,7 +11,7 @@
 - **JavaScript**
 - **CSharp**
 - **Unity 3D for game Dev**
-- **React.js
+- **React.js**
 
 ### 👯 I'd love to collab on:
 - **Python open-source projects!**
