@@ -21,9 +21,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mulitate4&show_icons=true" alt="mulitate4" />
 
 ### ⚡ Other Things I do:
-- **Blogging about gaming @ [Super Gaming Report](https://supergamingreport.blogspot.com)**📰
-- **Animation YT channel (INACTIVE RIGHT NOW!) - [Dan Guy Comics](https://www.youtube.com/channel/UCGw8gbp8FZ1J_FaL_w1rHPQ)**👾
-- **Learn. A lot!**👨‍🎓
+- **Blogging about gaming @** __[Super Gaming Report](https://supergamingreport.blogspot.com)📰__
+- **Animation YT channel (INACTIVE RIGHT NOW!)** - __[Dan Guy Comics](https://www.youtube.com/channel/UCGw8gbp8FZ1J_FaL_w1rHPQ)👾__
+- **Learn. A lot!👨‍🎓**
 
 ### 📫 Connect with me: 
 - Discord - **Mulitate4#9118**
