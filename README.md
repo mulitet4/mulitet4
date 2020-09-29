@@ -1,4 +1,10 @@
 ## Henlo! I'm Mulitate4 <img src="https://komarev.com/ghpvc/?username=mulitate4" alt="mulitate4" />
+### 😎 An Introduction:
+- **I'm a Boy**
+- **15 yrs Old.**
+- **I love python a lot**
+- **I like to learn new things all the time. New software/language/etc.**
+
 ### 👨‍💻 I’m currently working on
 - #### 🐍 Python Projects:
   - **an RPG game**
