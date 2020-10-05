@@ -5,6 +5,15 @@
 - **I love python a lot**
 - **I like to learn new things all the time. New software/language/etc.**
 
+### 💻 Completed Projects:
+- #### 🐍 Python:
+  - [**Billboard top 15 Webscraper**](https://github.com/mulitate4/web_scrapers/blob/master/BillBoard_Top15.py)
+  - [**Coding Challenges Repo**](https://github.com/mulitate4/Technorat_2020) //I had participated in a coding event
+  - **Muli-bot Discord Bot** //Not availaible to view the code, but you can test out the bot [here](https://discord.gg/9CBrq6D)
+
+- #### JS:
+  - [**To-Do-App**](mulitate4.netlify.app)
+
 ### 👨‍💻 I’m currently working on
 - #### 🐍 Python Projects:
   - **an RPG game**
