@@ -9,7 +9,7 @@
 - #### 🐍 Python:
   - [**Billboard top 15 Webscraper**](https://github.com/mulitate4/web_scrapers/blob/master/BillBoard_Top15.py)
   - [**Coding Challenges Repo**](https://github.com/mulitate4/Technorat_2020) //I had participated in a coding event
-  - **Muli-bot Discord Bot** //Not availaible to view the code, but you can test out the bot [here](https://discord.gg/9CBrq6D)
+  - [**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) //Code not availaible to view the code, but you can test out the bot [here]
 
 - #### JS:
   - [**To-Do-App**](mulitate4.netlify.app)
