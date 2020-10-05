@@ -21,6 +21,7 @@
 
 - #### Js Projects:
   - **RPG game in a browser**
+  - **Corona Status Report**
 
 ### 🤯 I’m currently learning:
 - **JavaScript**
