@@ -33,6 +33,10 @@
 ### 👯 I'd love to collab on:
 - **Python open-source projects!**
 
+### 📸 Latest Videos from [SGR YT](https://www.youtube.com/channel/UCCl5C5vWc3yFyalCfcaTmew?view_as=subscriber) (My YT)-
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ### 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
 <!-- BLOG-POST-LIST:START -->
 - [Game Review - Enter the Gungeon - Literal Bullet Hell](https://www.supergamingreport.com/2020/11/game-review-enter-gungeon-literal.html)
