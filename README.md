@@ -39,7 +39,11 @@
 
 ### 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
 <!-- BLOG-POST-LIST:START -->
-- [Enter the Gungeon - Game Review](https://www.youtube.com/watch?v=5OVDgR2djp0)
+- [Game Review - Enter the Gungeon - Literal Bullet Hell](https://www.supergamingreport.com/2020/11/game-review-enter-gungeon-literal.html)
+- [SGR Weekly. Issue #05. 7/11/2020.](https://www.supergamingreport.com/2020/11/sgr-weekly-issue-05-7112020.html)
+- [SGR Weekly. Issue #04. 31/10/2020.](https://www.supergamingreport.com/2020/10/sgr-weekly-issue-04-1112020.html)
+- [Epic Wallpapers for Epic Gamers. 4K/1080p (30+ Wallpapers)](https://www.supergamingreport.com/2020/10/epic-wallpapers-for-epic-gamers-4k1080p.html)
+- [AMD's processors might be FASTER than Intel for gaming ? Ryzen 5000 series announcement](https://www.supergamingreport.com/2020/10/amds-processors-might-be-faster-than.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📈 Some Stats (Stonks):
