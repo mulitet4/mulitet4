@@ -47,8 +47,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 📈 Some Stats (Stonks):
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulitate4&layout=compact" alt="mulitate4" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mulitate4&show_icons=true" alt="mulitate4" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulitate4&layout=compact&show_icons=true&theme=radical" alt="mulitate4" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mulitate4&show_icons=true&theme=radical" alt="mulitate4" />
 
 ### ⚡ Other Things I do:
 - **Blogging about gaming @** __[Super Gaming Report](https://www.supergamingreport.com)📰__
