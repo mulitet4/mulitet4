@@ -18,7 +18,7 @@
 ### 👨‍💻 I’m currently working on
 - #### Python Projects:
   - 🤺**an RPG game**
-  - 🤖📢**a Voice Assistant**
+  - 🤖📢[**a Voice Assistant**](https://github.com/mulitate4/S.A.M)
 
 - #### Js Projects:
   - 🤺**RPG game in a browser**
