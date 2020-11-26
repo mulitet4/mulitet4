@@ -10,7 +10,7 @@
   - 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/web_scrapers/blob/master/BillBoard_Top15.py)
   - 🤔[**Coding Challenges Repo**](https://github.com/mulitate4/Technorat_2020) //I had participated in a coding event
   - 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) //Code not availaible to view the code, but you can test out the bot [here](https://discord.gg/9CBrq6D)
-  - 🤖[**S.A.M -> A Voice Assistant Bot WIP**](https://github.com/mulitate4/S.A.M)
+  - 🤖[**S.A.M -> A Voice Assistant Bot**](https://github.com/mulitate4/S.A.M) //NEW features soon.
 
 - #### JS:
   - 📜[**To-Do-App**](mulitate4.netlify.app)
@@ -20,7 +20,6 @@
 ### 👨‍💻 I’m currently working on
 - #### Python Projects:
   - 🤺**an RPG game**
-  - 🤖📢[**a Voice Assistant**](https://github.com/mulitate4/S.A.M)
 
 - #### Js Projects:
   - 🦠**Corona Status Report**
@@ -29,14 +28,9 @@
 - **JavaScript**
 - **CSharp**
 - **Unity 3D for game Dev**
-- **React.js**
 
 ### 👯 I'd love to collab on:
 - **Python open-source projects!**
-
-### 📸 Latest Videos from [SGR YT](https://www.youtube.com/channel/UCCl5C5vWc3yFyalCfcaTmew?view_as=subscriber) (My YT)-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 ### 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
 <!-- BLOG-POST-LIST:START -->
