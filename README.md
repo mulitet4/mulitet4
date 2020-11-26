@@ -9,11 +9,13 @@
 - #### Python:
   - 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/web_scrapers/blob/master/BillBoard_Top15.py)
   - 🤔[**Coding Challenges Repo**](https://github.com/mulitate4/Technorat_2020) //I had participated in a coding event
-  - 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) //Code not availaible to view the code, but you can test out the bot [here]
+  - 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) //Code not availaible to view the code, but you can test out the bot [here](https://discord.gg/9CBrq6D)
+  - 🤖[**S.A.M -> A Voice Assistant Bot WIP**](https://github.com/mulitate4/S.A.M)
 
 - #### JS:
   - 📜[**To-Do-App**](mulitate4.netlify.app)
   - 🎮[**A simple Game with matter.js**](https://mulitate4.github.io/slingshot-game-js/)
+  - 🎵[**Lyrics Getter App**](https://github.com/mulitate4/j_lyrics_app)
 
 ### 👨‍💻 I’m currently working on
 - #### Python Projects:
@@ -21,7 +23,6 @@
   - 🤖📢[**a Voice Assistant**](https://github.com/mulitate4/S.A.M)
 
 - #### Js Projects:
-  - 🤺**RPG game in a browser**
   - 🦠**Corona Status Report**
 
 ### 🤯 I’m currently learning:
