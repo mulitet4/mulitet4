@@ -34,11 +34,8 @@
 
 ### 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
 <!-- BLOG-POST-LIST:START -->
-- [Why is Among Us so popular? How do they make their money? Will the next update be good?](https://www.supergamingreport.com/2020/12/why-is-among-us-so-popular-how-do-they.html)
-- [Next Gen Consoles - Xbox Series X and the PS5!](https://www.supergamingreport.com/2020/11/next-gen-consoles-xbox-series-x-and-ps5.html)
-- [The BEST Minecraft Modpacks and how to install them! (works on CRACKED minecraft)](https://www.supergamingreport.com/2020/11/the-best-minecraft-modpacks-and-how-to.html)
-- [SGR Weekly. Issue #06. 14/11/2020. Consoles Launch, Counter Strike turns 20, Apple announces M1 chips and more! (PUBG, Apex)](https://www.supergamingreport.com/2020/11/sgr-weekly-issue-06-14112020-consoles.html)
-- [Game Review - Enter the Gungeon - Literal Bullet Hell](https://www.supergamingreport.com/2020/11/game-review-enter-gungeon-literal.html)
+- [SGR weekly Issue #06. 15/11/20](https://www.youtube.com/watch?v=UNQQcjZXeyM)
+- [Enter the Gungeon - Game Review](https://www.youtube.com/watch?v=5OVDgR2djp0)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📈 Some Stats (Stonks):
