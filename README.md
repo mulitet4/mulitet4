@@ -25,23 +25,11 @@
   - 🦠**Corona Status Report**
   - 🎯**An Aim Trainer Website**
 
-### 🤯 I’m currently learning:
-- **JavaScript**
-- **CSharp**
-- **Unity 3D for game Dev**
-
-### 👯 I'd love to collab on:
-- **Python open-source projects!**
-
 ### 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
 <!-- BLOG-POST-LIST:START -->
 - [SGR weekly Issue #06. 15/11/20](https://www.youtube.com/watch?v=UNQQcjZXeyM)
 - [Enter the Gungeon - Game Review](https://www.youtube.com/watch?v=5OVDgR2djp0)
 <!-- BLOG-POST-LIST:END -->
-
-### 📈 Some Stats (Stonks):
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulitate4&layout=compact&show_icons=true&theme=radical" alt="mulitate4" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mulitate4&show_icons=true&theme=radical" alt="mulitate4" />
 
 ### ⚡ Other Things I do:
 - **Blogging about gaming @** __[Super Gaming Report](https://www.supergamingreport.com)📰__
