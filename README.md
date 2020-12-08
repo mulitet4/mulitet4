@@ -28,6 +28,11 @@
    2. 🎯**An Aim Trainer Website**
 
 ----
+## 📈Some Coding Stats - 
+<img src="https://github-readme-stats.vercel.app/api?username=mulitate4&theme=radical&show_icons=true))](https://github.com/anuraghazra/github-readme-stats" width="auto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulitate4&theme=radical&hide_border=true&layout=compact&card_width=445" width="auto" />
+ 
+----
 ## 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
 <!-- BLOG-POST-LIST:START -->
 - [Why is Among Us so popular? How do they make their money? Will the next update be good?](https://www.supergamingreport.com/2020/12/why-is-among-us-so-popular-how-do-they.html)
