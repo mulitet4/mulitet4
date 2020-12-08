@@ -9,7 +9,7 @@
 ### Python:
   1. 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/web_scrapers/blob/master/BillBoard_Top15.py)
   2. 🤔[**Coding Challenges Repo**](https://github.com/mulitate4/Technorat_2020) //I had participated in a coding event
-  3. 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) //Code not availaible to view the code, but you can test out the bot [here](https://discord.gg/9CBrq6D)
+  3. 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) //Private Repo, but you can test out the bot [here](https://discord.gg/9CBrq6D)
   4. 🤖[**S.A.M -> A Voice Assistant Bot**](https://github.com/mulitate4/S.A.M) //NEW features soon.
 
 ### JS:
