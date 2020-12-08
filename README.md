@@ -2,6 +2,7 @@
 - **I'm a Boy. He/Him.**
 - **15 yrs Old.**
 - **I love python a lot**
+- **I play a games. A LOT!**
 - **I like to learn new things all the time. New software/language/etc.**
 
 ----
@@ -41,11 +42,13 @@
 - **Blogging about gaming @** __[Super Gaming Report](https://www.supergamingreport.com)📰__
 - **Edit Videos**
 - **Read Books! and write a bit too!**
+- **Play video-games!**
 - **Learn. A lot!👨‍🎓**
 
 ----
 ## 📫 Connect with me: 
 - Discord - **Mulitate4#9118**
+- Steam - [**Goofy1916**](https://steamcommunity.com/id/ggezwplmaodie/)
 
 ----
 ## Languages and Tools (I have learnt OR learning):
