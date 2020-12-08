@@ -47,7 +47,7 @@
 
 ----
 ## 📫 Connect with me: 
-- Discord - [**Mulitate4#9118**](https://discord.bio/p/mulitate4)
+- Discord - [**MUwUlitate4#9118**](https://discord.bio/p/mulitate4)
 - Steam - [**Goofy1916**](https://steamcommunity.com/id/ggezwplmaodie/)
 
 ----
