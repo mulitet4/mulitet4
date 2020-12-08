@@ -23,6 +23,7 @@
 
 - #### Js Projects:
   - 🦠**Corona Status Report**
+  - 🎯**An Aim Trainer Website**
 
 ### 🤯 I’m currently learning:
 - **JavaScript**
