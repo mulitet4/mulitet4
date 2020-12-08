@@ -1,31 +1,31 @@
 ## Henlo! I'm Mulitate4 <img src="https://komarev.com/ghpvc/?username=mulitate4" alt="mulitate4" />
 ### 👋 An Introduction:
-- **I'm a Boy**
+- **I'm a Boy. He/Him.**
 - **15 yrs Old.**
 - **I love python a lot**
 - **I like to learn new things all the time. New software/language/etc.**
 
 ----
 ### 💻 Completed Projects:
-- #### Python:
-  1. 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/web_scrapers/blob/master/BillBoard_Top15.py)
-  2. 🤔[**Coding Challenges Repo**](https://github.com/mulitate4/Technorat_2020) //I had participated in a coding event
-  3. 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) //Code not availaible to view the code, but you can test out the bot [here](https://discord.gg/9CBrq6D)
-  4. 🤖[**S.A.M -> A Voice Assistant Bot**](https://github.com/mulitate4/S.A.M) //NEW features soon.
+1 #### Python:
+  - 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/web_scrapers/blob/master/BillBoard_Top15.py)
+  - 🤔[**Coding Challenges Repo**](https://github.com/mulitate4/Technorat_2020) //I had participated in a coding event
+  - 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) //Code not availaible to view the code, but you can test out the bot [here](https://discord.gg/9CBrq6D)
+  - 🤖[**S.A.M -> A Voice Assistant Bot**](https://github.com/mulitate4/S.A.M) //NEW features soon.
 
-- #### JS:
+2 #### JS:
   1. 📜[**To-Do-App**](mulitate4.netlify.app)
   2. 🎮[**A simple Game with matter.js**](https://mulitate4.github.io/slingshot-game-js/)
   3. 🎵[**Lyrics Getter App**](https://github.com/mulitate4/j_lyrics_app)
 
 ----
 ### 👨‍💻 I’m currently working on
-- #### Python Projects:
-   1. 🤺**an RPG game**
+1 #### Python Projects:
+   - 🤺**an RPG game**
 
-- #### Js Projects:
-   1. 🦠**Corona Status Report**
-   2. 🎯**An Aim Trainer Website**
+2 #### Js Projects:
+   - 🦠**Corona Status Report**
+   - 🎯**An Aim Trainer Website**
 
 ----
 ### 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
