@@ -35,11 +35,11 @@
 ----
 ## 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
 <!-- BLOG-POST-LIST:START -->
+- [Why is CyberPunk 2077 so buggy? || CDPR REFUNDING last-gen console Copies?](https://www.supergamingreport.com/2020/12/cyberpunk-2077-is-buggy-af.html)
 - [Valorant Rank System kinda SUCKS. (Explanations and Solutions).](https://www.supergamingreport.com/2020/12/valorant-rank-system-sucks.html)
 - [Why is Among Us so popular? How do they make their money? Will the next update be good?](https://www.supergamingreport.com/2020/12/why-is-among-us-so-popular-how-do-they.html)
 - [Next Gen Consoles - Xbox Series X and the PS5!](https://www.supergamingreport.com/2020/11/next-gen-consoles-xbox-series-x-and-ps5.html)
 - [The BEST Minecraft Modpacks and how to install them! (works on CRACKED minecraft)](https://www.supergamingreport.com/2020/11/the-best-minecraft-modpacks-and-how-to.html)
-- [SGR Weekly. Issue #06. 14/11/2020. Consoles Launch, Counter Strike turns 20, Apple announces M1 chips and more! (PUBG, Apex)](https://www.supergamingreport.com/2020/11/sgr-weekly-issue-06-14112020-consoles.html)
 <!-- BLOG-POST-LIST:END -->
 
 ----
