@@ -35,11 +35,11 @@
 ----
 ## 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
 <!-- BLOG-POST-LIST:START -->
+- [KFC Console? Is it Finger (F)licking Good?](https://www.supergamingreport.com/2020/12/is-the-kfconsole-real.html)
 - [Is cyberpunk REALLY as bad as people say? A short review.](https://www.supergamingreport.com/2020/12/is-cyberpunk-that-bad-.html)
 - [Why is CyberPunk 2077 so buggy? || CDPR REFUNDING last-gen console Copies?](https://www.supergamingreport.com/2020/12/cyberpunk-2077-is-buggy-af.html)
 - [Valorant Rank System kinda SUCKS. (Explanations and Solutions).](https://www.supergamingreport.com/2020/12/valorant-rank-system-sucks.html)
 - [Why is Among Us so popular? How do they make their money? Will the next update be good?](https://www.supergamingreport.com/2020/12/why-is-among-us-so-popular-how-do-they.html)
-- [Next Gen Consoles - Xbox Series X and the PS5!](https://www.supergamingreport.com/2020/11/next-gen-consoles-xbox-series-x-and-ps5.html)
 <!-- BLOG-POST-LIST:END -->
 
 ----
