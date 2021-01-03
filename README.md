@@ -1,5 +1,5 @@
 ## 👋 An Introduction: <img src="https://komarev.com/ghpvc/?username=mulitate4" alt="mulitate4" />
-- **I'm a Boy. He/Him.**
+- **I'm a Boy.**
 - **15 yrs Old.**
 - **I love python a lot**
 - **I play a games. A LOT!**
@@ -44,7 +44,8 @@
 
 ----
 ## ⚡ Other Things I do:
-- **Blogging about gaming @** __[Super Gaming Report](https://www.supergamingreport.com)📰__
+- **Blogging about gaming! ** __[Super Gaming Report](https://www.supergamingreport.com)📰__
+- **Blogging about coding! ** __[Mulitate4's Programming Madness!](https://mulitate4.hashnode.dev/)📰__
 - **Edit Videos**
 - **Read Books! and write a bit too!**
 - **Play video-games!**
@@ -53,7 +54,7 @@
 ----
 ## 📫 Connect with me: 
 - Discord - [**MUwUlitate4#9118**](https://discord.bio/p/mulitate4)
-- Steam - [**Goofy1916**](https://steamcommunity.com/id/ggezwplmaodie/)
+- Steam - [**MUwUlitate4**](https://steamcommunity.com/id/muwulitate4/)
 
 ----
 ## Languages and Tools (I have learnt OR learning):
