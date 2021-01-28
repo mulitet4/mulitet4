@@ -44,8 +44,8 @@
 
 ----
 ## ⚡ Other Things I do:
-- **Blogging about gaming! ** __[Super Gaming Report](https://www.supergamingreport.com)📰__
-- **Blogging about coding! ** __[Mulitate4's Programming Madness!](https://mulitate4.hashnode.dev/)📰__
+- **Blogging about gaming!**  __[Super Gaming Report](https://www.supergamingreport.com)📰__
+- **Blogging about coding!**  __[Mulitate4's Programming Madness!](https://mulitate4.hashnode.dev/)📰__
 - **Edit Videos**
 - **Read Books! and write a bit too!**
 - **Play video-games!**
