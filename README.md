@@ -35,11 +35,11 @@
 ----
 ## 📰 Latest Blogs from [SGR](https://www.supergamingreport.com) (My Blogging Site)-
 <!-- BLOG-POST-LIST:START -->
+- [What is NFT? Are they the next big thing for Gaming Industry?](https://www.supergamingreport.com/2021/02/what-is-nft-are-they-next-big-thing-for.html)
 - [SGR Monthly Issue #01 Jan 2020.](https://www.supergamingreport.com/2021/02/sgr-monthly-issue-01-jan-2020.html)
 - [Hotline Miami - Substance Fueled Purple Nightmare. Game Review](https://www.supergamingreport.com/2021/01/hotline-miami-game-review.html)
 - [KFC Console? Is it Finger (F)licking Good?](https://www.supergamingreport.com/2020/12/is-the-kfconsole-real.html)
 - [Is cyberpunk REALLY as bad as people say? A short review.](https://www.supergamingreport.com/2020/12/is-cyberpunk-that-bad-.html)
-- [Why is CyberPunk 2077 so buggy? || CDPR REFUNDING last-gen console Copies?](https://www.supergamingreport.com/2020/12/cyberpunk-2077-is-buggy-af.html)
 <!-- BLOG-POST-LIST:END -->
 
 ----
