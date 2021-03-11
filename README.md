@@ -14,9 +14,9 @@
   4. 🤖[**S.A.M -> A Voice Assistant Bot**](https://github.com/mulitate4/S.A.M) //NEW features soon.
 
 ### JS:
-  1. 📜[**To-Do-App**](mulitate4.netlify.app)
+  1. 📜[**To-Do-App**](https://mulitate4.netlify.app)
   2. 🎮[**A simple Game with matter.js**](https://mulitate4.github.io/slingshot-game-js/)
-  3. 🎵[**Lyrics Getter App**](https://github.com/mulitate4/j_lyrics_app)
+  3. 🎵[**Lyrics Getter App**](https://github.com/mulitate4/lyricist)
 
 ----
 ## 👨‍💻 I’m currently working on
