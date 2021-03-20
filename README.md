@@ -8,15 +8,16 @@
 ----
 ## 💻 Completed Projects:
 ### Python:
-  1. 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/web_scrapers/blob/master/BillBoard_Top15.py)
-  2. 🤔[**Coding Challenges Repo**](https://github.com/mulitate4/Technorat_2020) //I had participated in a coding event
+  1. 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/scripts_Web-Scrapers/blob/master/BillBoard_Top15.py)
+  2. 🤔[**Technocrat 2020 Hackathon Repo**](https://github.com/mulitate4/hackathon_Technocrat-2020) //I had participated in a coding event
   3. 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) //Private Repo, but you can test out the bot [here](https://discord.gg/9CBrq6D)
   4. 🤖[**S.A.M -> A Voice Assistant Bot**](https://github.com/mulitate4/S.A.M) //NEW features soon.
 
 ### JS:
-  1. 📜[**To-Do-App**](https://mulitate4.netlify.app)
-  2. 🎮[**A simple Game with matter.js**](https://mulitate4.github.io/slingshot-game-js/)
-  3. 🎵[**Lyrics Getter App**](https://github.com/mulitate4/lyricist)
+  1. 📜[**To-Do-App**](https://mulitate4.github.io/webapp_To-Do/) | [Repo](https://github.com/mulitate4/webapp_To-Do)
+  2. 🎮[**A simple Game with matter.js**]() | [repo](https://github.com/mulitate4/webapp_Slingshot-Game)
+  3. 🎵[**Lyrics Getter App**](https://mulitate4.github.io/webapp_Lyricist/) | [repo](https://github.com/mulitate4/webapp_Lyricist)
+  4. 📢[**Website for text-to-speech**](https://mulitate4.github.io/webapp_Lyricist/) | [repo](https://github.com/mulitate4/webapp_TTShare)
 
 ----
 ## 👨‍💻 I’m currently working on
