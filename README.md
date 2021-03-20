@@ -25,8 +25,7 @@
    1. 🤺**an RPG game**
 
 ### Js Projects:
-   1. 🦠**Corona Status Report**
-   2. 🎯**An Aim Trainer Website**
+   1. 🎯**An Aim Trainer Website**
 
 ----
 ## 📈Some Coding Stats - 
