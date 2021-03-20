@@ -14,7 +14,7 @@
   4. 🤖[**S.A.M -> A Voice Assistant Bot**](https://github.com/mulitate4/S.A.M) //NEW features soon.
 
 ### JS:
-  1. 📜[**To-Do-App**](https://mulitate4.github.io/webapp_To-Do/) | [Repo](https://github.com/mulitate4/webapp_To-Do)
+  1. 📜[**To-Do-App**](https://mulitate4.github.io/webapp_To-Do/) | [repo](https://github.com/mulitate4/webapp_To-Do)
   2. 🎮[**A simple Game with matter.js**]() | [repo](https://github.com/mulitate4/webapp_Slingshot-Game)
   3. 🎵[**Lyrics Getter App**](https://mulitate4.github.io/webapp_Lyricist/) | [repo](https://github.com/mulitate4/webapp_Lyricist)
   4. 📢[**Website for text-to-speech**](https://mulitate4.github.io/webapp_Lyricist/) | [repo](https://github.com/mulitate4/webapp_TTShare)
