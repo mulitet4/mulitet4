@@ -22,10 +22,11 @@
 ----
 ## 👨‍💻 I’m currently working on
 ### Python Projects:
-   1. 🤺**an RPG game**
+   1. ✅**TrueDo API**
 
 ### Js Projects:
    1. 🎯**An Aim Trainer Website**
+   2. ✅**TrueDo website**
 
 ----
 ## 📈Some Coding Stats - 
