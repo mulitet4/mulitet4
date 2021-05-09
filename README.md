@@ -11,7 +11,8 @@
   2. 🤔[**Technocrat 2020 Hackathon Repo**](https://github.com/mulitate4/hackathon_Technocrat-2020) | I had participated in a Hackathon
   3. 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) | Private Repo, but you can test out the bot [here](https://discord.gg/9CBrq6D)
   4. 🤖[**S.A.M -> A Voice Assistant Bot**](https://github.com/mulitate4/S.A.M)
-  5. ✅**TrueDo API** | Public Release Soon!
+  5. 📄[**Blogging Helper**](https://github.com/mulitate4/script_Blogging_helper)
+  6. ✅**TrueDo API** | Public Release Soon!
 
 ### JS:
   1. 📜[**To-Do-App**](https://mulitate4.github.io/webapp_To-Do/) | [repo](https://github.com/mulitate4/webapp_To-Do)
