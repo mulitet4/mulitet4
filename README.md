@@ -19,7 +19,7 @@
   2. 🎮[**A simple Game with matter.js**](https://mulitate4.github.io/webapp_Slingshot-Game/) | [repo](https://github.com/mulitate4/webapp_Slingshot-Game)
   3. 🎵[**Lyrics Getter App**](https://mulitate4.github.io/webapp_Lyricist/) | [repo](https://github.com/mulitate4/webapp_Lyricist)
   4. 📢[**Website for text-to-speech**](https://mulitate4.github.io/webapp_Lyricist/) | [repo](https://github.com/mulitate4/webapp_TTShare)
-  5. ✅**TrueDo website** Public Release Soon!
+  5. ✅**TrueDo website** | Public Release Soon!
  
 ----
 ## ⚡ Other Things I do:
