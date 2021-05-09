@@ -10,7 +10,7 @@
   1. 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/scripts_Web-Scrapers/blob/master/BillBoard_Top15.py)
   2. 🤔[**Technocrat 2020 Hackathon Repo**](https://github.com/mulitate4/hackathon_Technocrat-2020) | I had participated in a Hackathon
   3. 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) | Private Repo, but you can test out the bot [here](https://discord.gg/9CBrq6D)
-  4. 🤖[**S.A.M -> A Voice Assistant Bot**](https://github.com/mulitate4/S.A.M)
+  4. 🤖[**S.A.M**](https://github.com/mulitate4/S.A.M) | A Voice Assistant Bot
   5. 📄[**Blogging Helper**](https://github.com/mulitate4/script_Blogging_helper)
   6. ✅**TrueDo API** | Public Release Soon!
 
