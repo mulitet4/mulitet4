@@ -19,7 +19,7 @@
   1. 📜[**To-Do-App**](https://mulitate4.github.io/webapp_To-Do/) | [repo](https://github.com/mulitate4/webapp_To-Do)
   2. 🎮[**A simple Game with matter.js**](https://mulitate4.github.io/webapp_Slingshot-Game/) | [repo](https://github.com/mulitate4/webapp_Slingshot-Game)
   3. 🎵[**Lyrics Getter App**](https://mulitate4.github.io/webapp_Lyricist/) | [repo](https://github.com/mulitate4/webapp_Lyricist)
-  4. 📢[**Website for text-to-speech**](https://mulitate4.github.io/webapp_Lyricist/) | [repo](https://github.com/mulitate4/webapp_TTShare)
+  4. 📢[**Website for text-to-speech**](https://mulitate4.github.io/webapp_TTShare/) | [repo](https://github.com/mulitate4/webapp_TTShare) | The API sadly isn't working currently
   5. ✅**TrueDo website** | Public Release Soon!
  
  ### Flutter:
