@@ -1,6 +1,6 @@
 ## 👋 An Introduction:
 - **I'm a Boy.**
-- **15 yrs Old.**
+- **16 yrs Old.**
 - **I code in Python and JS**
 - **trying out Game Development!**
 
