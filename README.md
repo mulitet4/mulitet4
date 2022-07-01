@@ -1,8 +1,7 @@
 ## 👋 An Introduction:
 - **I'm a Boy.**
-- **16 yrs Old.**
+- **17 yrs Old.**
 - **I code in Python, JS, Flutter**
-- **trying out Game Development!**
 
 ----
 ## 💻 Completed Projects:
