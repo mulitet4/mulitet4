@@ -1,7 +1,7 @@
 ## 👋 An Introduction:
 - **I'm a Boy.**
 - **16 yrs Old.**
-- **I code in Python and JS**
+- **I code in Python, JS, Flutter**
 - **trying out Game Development!**
 
 ----
@@ -28,14 +28,7 @@
   3. ⛽[**RK Petrol App**]() | Rewards app for RK Petrol Pump
  
 ----
-## ⚡ Other Things I do:
-- **Blogging about gaming!** | [Super Gaming Report](https://www.supergamingreport.com)📰
-- **Blogging about coding!** | [Mulitate4's Programming Madness!](https://mulitate4.hashnode.dev/)📰
-- **Shitpost on my YT**  | [Mulitate4](https://www.youtube.com/channel/UCGw8gbp8FZ1J_FaL_w1rHPQ)
-- **Read Books**
-- **Play video-games!**
 
-----
 ## 📫 Connect with me: 
-- Discord - [**MUwUlitate4#9118**](https://discord.bio/p/mulitate4)
+- Discord - [**Mulitate4#9118**](https://discord.bio/p/mulitate4)
 - Steam - [**MUwUlitate4**](https://steamcommunity.com/id/muwulitate4/)
