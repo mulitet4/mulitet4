@@ -8,7 +8,7 @@
 ### Python:
   1. 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/scripts_Web-Scrapers/blob/master/BillBoard_Top15.py) | Beginner project, O L D.
   2. 🤔[**Technocrat 2020 Hackathon Repo**](https://github.com/mulitate4/hackathon_Technocrat-2020) | I had participated in a Hackathon
-  3. 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) | Private Repo, but you can test out the bot [here](https://discord.gg/9CBrq6D)
+  3. 🤖[**Muli-bot Discord Bot**](https://discord.gg/9CBrq6D) | Bot down since Heroku stopped free tier.
   4. 🤖[**S.A.M**](https://github.com/mulitate4/S.A.M) | A Voice Assistant Bot
   6. 🎮[**Productive Gamer**](https://github.com/mulitate4/Productive-Gamer) | A dive into PyQML
   7. 🎮[**RPG Game**](https://github.com/mulitate4/RPG-Game) | A very primitive type of RPG game, Abandoned for now. Console based purely.
