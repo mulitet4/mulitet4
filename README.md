@@ -19,7 +19,7 @@
   1. ✅[**True-Do**](https://mulitate4.pythonanywhere.com/) | [repo](https://github.com/mulitate4/True-Do/) | One of my favourite projects
   2. 📜[**Beginner-To-Do-App**](https://mulitate4.github.io/To-Do/) | [repo](https://github.com/mulitate4/To-Do/) | A very old beginner project
   4. 🎮[**A simple Game with matter.js**](https://mulitate4.github.io/Slingshot-Game/) | [repo](https://github.com/mulitate4/Slingshot-Game) | Old project, Messing around!
-  5. 🎵[**Lyrics Getter App**](https://mulitate4.github.io/Lyricist/) | [repo](https://mulitate4.github.io/Lyricist/) | API down since Heroku stopped free tier
+  5. 🎵[**Lyrics Getter App**](https://mulitate4.github.io/Lyricist/) | [repo](https://github.com/Lyricist/) | API down since Heroku stopped free tier
   6. 📢[**Website for text-to-speech**](https://mulitate4.github.io/TTShare/) | [repo](https://github.com/mulitate4/TTShare) | API down
 
 ### Flutter:
