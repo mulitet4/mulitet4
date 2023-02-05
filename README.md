@@ -4,6 +4,11 @@
 - **I code in Python, JS, Flutter**
 
 ----
+## 🏆 Proud Projects:
+  1. ✅[**True-Do**](https://true-do.deta.dev/) | [repo](https://github.com/True-Do/True-Do) | Productivity Powerhouse | Learnt a LOT while developing this project!
+  2. 😴[**Nap Time**](https://github.com/mulitate4/Nap-Time) | [download app](https://github.com/mulitate4/Nap-Time/raw/main/current-apk/Nap-Time.apk) | Create alarms like creating a timer | Proud of the UI!
+
+----
 ## 💻 Completed Projects:
 ### Python:
   1. 🎵[**Billboard top 15 Webscraper**](https://github.com/mulitate4/scripts_Web-Scrapers/blob/master/BillBoard_Top15.py) | Beginner project, O L D.
