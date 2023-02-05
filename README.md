@@ -7,6 +7,7 @@
 ## 🏆 Proud Projects:
   1. ✅[**True-Do**](https://true-do.deta.dev/) | [repo](https://github.com/True-Do/True-Do) | Productivity Powerhouse | Learnt a LOT while developing this project!
   2. 😴[**Nap Time**](https://github.com/mulitate4/Nap-Time) | [download app](https://github.com/mulitate4/Nap-Time/raw/main/current-apk/Nap-Time.apk) | Create alarms like creating a timer | Proud of the UI!
+  3. [📝**Markup -> HTML**](https://github.com/mulitate4/Blogging-Helper) | More of a personal use project, but I think it's cool nonetheless! | Doesn't support all of Markdown.
 
 ----
 ## 💻 Completed Projects:
