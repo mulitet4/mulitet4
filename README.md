@@ -22,7 +22,7 @@
   9. ⏰[**Aakash Timetable Creator**](http://aakashtimetable.pythonanywhere.com/) | Simple tool to make creating weekly Aakash timetable easier.
 
 ### JS:
-  1. ✅[**True-Do**](https://true-do.deta.dev/) | [repo](https://github.com/True-Do/True-Do) | One of my favourite projects
+  1. ✅[**True-Do**](https://truedositetmp-1-c0868472.deta.app/) | [repo](https://github.com/True-Do/True-Do) | One of my favourite projects
   2. 📜[**Beginner-To-Do-App**](https://mulitate4.github.io/To-Do/) | [repo](https://github.com/mulitate4/To-Do/) | A very old beginner project
   4. 🎮[**A simple Game with matter.js**](https://mulitate4.github.io/Slingshot-Game/) | [repo](https://github.com/mulitate4/Slingshot-Game) | Old project, Messing around!
   5. 🎵[**Lyrics Getter App**](https://mulitate4.github.io/Lyricist/) | [repo](https://github.com/mulitate4/Lyricist/) | API down since Heroku stopped free tier
